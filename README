@@ -1,0 +1,5 @@
+Play hands of 5-card stud.
+
+Poker.play() gives you a 5-element array of cards like 'A-S', '2-D', ...
+
+python src/poker.py prints the values of a newly played hand.
